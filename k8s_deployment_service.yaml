@@ -5,7 +5,7 @@ metadata:
     app: devsecops
   name: devsecops
 spec:
-  replicas: 4
+  replicas: 5
   selector:
     matchLabels:
       app: devsecops
